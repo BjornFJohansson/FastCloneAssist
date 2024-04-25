@@ -1,5 +1,5 @@
-# FastCloneAssist
-Fast cloning primer designing project script and files.
+# FastCloneAssist_01
+Fast cloning primer d_esigning project script and files.
 
 What is Fast Cloning: Please see this paper: Li, C., Wen, A., Shen, B. et al. FastCloning: a highly simplified, purification-free, sequence- and ligation-independent PCR cloning method. BMC Biotechnol 11, 92 (2011). https://doi.org/10.1186/1472-6750-11-92
 
